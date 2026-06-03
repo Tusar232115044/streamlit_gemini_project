@@ -83,7 +83,6 @@ if pressed:
             
 
 
-s
         with st.container(border = True):
             st.subheader(f"Quiz level ({selected_option})")
 
